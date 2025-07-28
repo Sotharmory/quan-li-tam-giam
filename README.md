@@ -52,3 +52,5 @@ Please note that the JCE for Java SE, including the JCE framework,
 cryptographic policy files, and standard JCE providers provided with
 the Java SE, have been reviewed and approved for export as mass market
 encryption item by the US Bureau of Industry and Security.
+
+link báo cáo https://daihocphenikaa-my.sharepoint.com/:w:/g/personal/23010196_st_phenikaa-uni_edu_vn/EYB78LrJPGhNuum9KCAvZUkBNlH5Qt1adGjcu5itHDhe8w?e=finicQ
